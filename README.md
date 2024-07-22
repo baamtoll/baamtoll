@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 <div align = "center">
   
-<a href="loveisblue78@gmail.com">
+<a href="mailto:loveisblue78@gmail.com">
   
 ![Static Badge](https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&color=EA4335)
 
